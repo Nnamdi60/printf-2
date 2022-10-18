@@ -1,9 +1,9 @@
 _printf
-Create the printf function This is a colaborative project of ebube okeke and Maduka chinedu The _printf function accepts an argument and prints to the standard output
+Create the printf function This is a colaborative project of Christopher Christian Nnamdi and Maduka chinedu The _printf function accepts an argument and prints to the standard output
 
 printf
 Description
-The printf function sends formatted output to stdout. A custom _printf() for learning purposes was developed by cohort #5 students Maduka Chinedu and Ebube Okeke. _printf() function format string is a character string, beginning and ending in its initial shift state, if any. These arguments are placed using the percentage '%' operator
+The printf function sends formatted output to stdout. A custom _printf() for learning purposes was developed by cohort #9 students Christopher Christian Nnamdi and Ebube Okeke. _printf() function format string is a character string, beginning and ending in its initial shift state, if any. These arguments are placed using the percentage '%' operator
 Dependencies
 The _printf function was coded on an Ubuntu 20.04 LTS machine with gcc version 11.2.0.
 
@@ -121,5 +121,5 @@ R: prints the rot13'ed string
 All the above options work well together.
 
 Authors ©
-Okeke Ebube < devpcrd
+Christopher Christian Nnamdi < Nnamdi60
 Chinedu Maduka < machina94
