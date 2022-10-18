@@ -24,7 +24,7 @@ int _printf(const char *[FORMAT], ...);
 
 The printf function sends formatted output to stdout.
 A custom _printf() for learning purposes was developed by cohort  #9 students Christopher Christian Nnamdi and Chinedu Maduka as a project in ALX .
-_printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
+_printf() function format string is a character string, beginning and ending in its initial shift state, if any.
 These arguments are placed using the percentage '%' operator
 
 .SS Compilation
@@ -129,4 +129,4 @@ Christopher Christian Nnamdi and Chinedu Maduka
 
 .B Twitter
 .PP
-@Throneoflove1 @cobed94
+@Throneoflov1 @cobed94
